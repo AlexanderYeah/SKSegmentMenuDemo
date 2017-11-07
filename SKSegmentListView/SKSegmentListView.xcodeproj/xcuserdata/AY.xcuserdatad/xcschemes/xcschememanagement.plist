@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SKSegmentListView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>03E9D1281FB140CA004D7ED3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>03E9D1411FB140CC004D7ED3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>03E9D14C1FB140CC004D7ED3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
